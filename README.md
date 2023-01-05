@@ -1,7 +1,16 @@
-# HauntedHouse
+# Three.js Journey
 
+## Setup
+Download [Node.js](https://nodejs.org/en/download/).
+Run this followed commands:
 
+``` bash
+# Install dependencies (only the first time)
+npm install
 
+# Run the local server at localhost:8080
+npm run dev
 
-https://user-images.githubusercontent.com/47979970/210831360-79ae3efa-e889-4146-815d-b526e5de5e1a.mp4
-
+# Build for production in the dist/ directory
+npm run build
+```
